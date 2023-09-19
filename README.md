@@ -45,7 +45,7 @@ The fraud detection system is implemented as a web service, integrated into onli
 
 
 
-**Future Enhancements**
+   **Future Enhancements**
 
 
 
