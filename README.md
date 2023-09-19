@@ -32,9 +32,13 @@ Seaborn
 
 **Model Performance**
 Our fraud detection system achieves a high precision score, ensuring that most flagged transactions are genuinely fraudulent. The confusion matrix is also used to know how accurately our model predicts true positives and true negatives.
+
+
 **Usage**
 The fraud detection system is implemented as a web service, integrated into online payment platforms. It operates transparently for users, continuously analyzing transactions in the background to ensure secure payments.
-**
+
+
+
 Future Enhancements**
 Incorporate more advanced machine learning models and techniques for even better fraud detection accuracy.
 Expand the system's capabilities to detect new and emerging fraud patterns.
